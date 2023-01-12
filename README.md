@@ -45,6 +45,7 @@
 |11.| <a href="https://github.com/everydaycodings/Email-Bomber">Atomic Email Bomb</a> | A better Gmail bomber. | <a href="https://github.com/zeyad-mansour">zeyad-mansour</a>|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://i.ibb.co/3FntR1c/1.png) |
 |13.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
+|14.| <a href="https://github.com/CryoTeam">CryoTeam</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
